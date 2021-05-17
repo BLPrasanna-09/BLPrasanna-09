@@ -1,6 +1,6 @@
 Hello,
-I'm Bonkuri Lakshmi Prasanna.
-I completed my schooling in JNV.
+I'm Bonkuri Lakshmi Prasanna.<br>
+I completed my schooling in JNV.<br>
 I am a first year ug in IIT Kharagpur.
 
 
