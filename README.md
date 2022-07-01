@@ -1,7 +1,7 @@
 Hello,
 I'm Bonkuri Lakshmi Prasanna.<br>
 I completed my schooling in JNV KMM.<br>
-I am a 2nd year ug in IIT Kharagpur.
+I am a 3rd year ug in IIT Kharagpur.
 
 
 <!---
